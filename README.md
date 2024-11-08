@@ -10,7 +10,7 @@
 - 👨‍💻  I have made a career shift to the field of programming.
 - 🌱  I’m currently learning ervery thing about Front-end development.
 - 👨‍💻  constantly learning new technologies to improve my skills.
-- 💬 **Ask me about python , programming or anything related to web development.**:
+- 💬 **Ask me about python , programming or anything related to web development.**
 - ⚡ Fun fact: i'm a cat lover 🐈
 
 ### 🛠 &nbsp;Languages and Tools :
